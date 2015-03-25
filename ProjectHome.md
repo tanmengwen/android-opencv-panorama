@@ -1,0 +1,1 @@
+Pano For Android: Take pictures with your phone, stitch them locally and upload and share them to the world.
